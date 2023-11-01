@@ -1,0 +1,15 @@
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\bin\Debug\net6.0\CarPolicy.Infrastructure.deps.json
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\bin\Debug\net6.0\CarPolicy.Infrastructure.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\bin\Debug\net6.0\CarPolicy.Infrastructure.pdb
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\bin\Debug\net6.0\CarPolicy.Domain.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\bin\Debug\net6.0\CarPolicy.Domain.pdb
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.AssemblyInfo.cs
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.csproj.CopyComplete
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\refint\CarPolicy.Infrastructure.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\CarPolicy.Infrastructure.pdb
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Infrastructure\obj\Debug\net6.0\ref\CarPolicy.Infrastructure.dll
