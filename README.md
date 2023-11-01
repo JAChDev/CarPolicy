@@ -1,6 +1,5 @@
 ================================================
 API PARA CREAR Y CONSULTAR PÓLIZAS DE VEHÍCULOS
-================================================
 
 Esta API permite registrar pólizas de vehículos en una base de datos MongoDB, y consultarlas posteriormente.
 
