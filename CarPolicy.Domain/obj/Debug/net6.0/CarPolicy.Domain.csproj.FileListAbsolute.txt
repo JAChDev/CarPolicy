@@ -1,0 +1,12 @@
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\bin\Debug\net6.0\CarPolicy.Domain.deps.json
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\bin\Debug\net6.0\CarPolicy.Domain.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\bin\Debug\net6.0\CarPolicy.Domain.pdb
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.csproj.AssemblyReference.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.AssemblyInfoInputs.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.AssemblyInfo.cs
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\refint\CarPolicy.Domain.dll
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\CarPolicy.Domain.pdb
+C:\Users\jach2\Documents\Pruebas\Personal_Soft\CarPolicy.WebApi\CarPolicy.Domain\obj\Debug\net6.0\ref\CarPolicy.Domain.dll

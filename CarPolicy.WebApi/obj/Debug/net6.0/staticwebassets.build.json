@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWRTqudZ226DazUXo2pXaqn0rpiWVKRlbT2E5YoPQn8=",
+  "Source": "CarPolicy.WebApi",
+  "BasePath": "_content/CarPolicy.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
