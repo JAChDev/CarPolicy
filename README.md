@@ -1,4 +1,5 @@
 ========API PARA CREAR Y CONSULTAR PÓLIZAS DE VEHÍCULOS========
+***************************************************************
 
 Esta API permite registrar pólizas de vehículos en una base de datos MongoDB, y consultarlas posteriormente.
 
@@ -6,6 +7,7 @@ La API está protegida con autenticación JWT, para su consumo se requiere un to
 por lo que cuenta con un endpoint login en la ruta "api/auth" que genera el token requerido para su consumo.
 
 ========Endpoints========
+****************************************************************
 
 Los endpoints POST "api/policy/createPolicy" y GET "api/policy/getPolicy/{data}" corresponden, respectivamente al 
 registro y consulta de las pólizas en la base de datos; para implementar la conexión con su base de datos
@@ -18,7 +20,7 @@ de datos, sólo con fines de prueba (la información no quedará guardada una ve
 aplicación).
 
 ========Insumos========
-
+****************************************************************
 Para los endpoints de registro POST se requiere la siguiente estructura JSON en el cuerpo de la solicitud:
 
 {
@@ -39,5 +41,5 @@ Para los endpoints de registro POST se requiere la siguiente estructura JSON en 
 }
 Al ejecutar la aplicación, en la ventana de SWAGGER encontrará el modelo de datos para estos consumos.
 
-=========
+****************************************************************
 Creado por Jonatán Amado Chinchilla
